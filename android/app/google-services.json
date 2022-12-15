@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "237763530276",
+    "project_id": "social-app-24cad",
+    "storage_bucket": "social-app-24cad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237763530276:android:5d5352a714d7a75cb0d2b1",
+        "android_client_info": {
+          "package_name": "com.example.social_app_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237763530276-heqsv759qrsu6l4g012vue52ug5d5ra5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.social_app_flutter",
+            "certificate_hash": "f3241d8b7694ccf55943f17593fa0b1966ca8734"
+          }
+        },
+        {
+          "client_id": "237763530276-j94r9hlfk7ih4ufi47g1ag13pgp0domc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkNCjN52gDuHnEaujB_1ojlisJpiFFedc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237763530276-j94r9hlfk7ih4ufi47g1ag13pgp0domc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
